@@ -1,0 +1,73 @@
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Tayloredmade Productions</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="Tayloredmade.github.io/GamePlay.html">Game Play</a></li>
+        <li><a href="Tayloredmade.github.io/Links.html">Links</a></li>
+        <li><a href="https://tayloredmade.github.io/">About Us</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="Tayloredmade.github.io/Addme.html"><span class="glyphicon glyphicon-user"></span> Add Me</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<html>
+<head>
+<style>
+body {
+  background-color: gray;
+}
+<style>
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #57b1dc;
+  margin-top: 30px;
+}
+img {
+  border: 5px solid #000000;
+}
+  p {
+  font-size: 22px;
+}
+  h1 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+  p {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+  
+</style>
+
+</head>
+
+<center><picture><img src="https://i.ibb.co/rQKpfBq/IMG-0977.jpg" alt="logo" width="800" height="400"></picture></center>
+<body>
+ <center><h1>Links</h1></center>

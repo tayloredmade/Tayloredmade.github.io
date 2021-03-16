@@ -22,8 +22,8 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
-        <li><a href="Tayloredmade.github.io/GamePlay.html">Game Play</a></li>
-        <li><a href="Tayloredmade.github.io/Links.html">Links</a></li>
+        <li><a href="Tayloredmade.github.io/GamePlay">Game Play</a></li>
+        <li><a href="Tayloredmade.github.io/Links">Links</a></li>
         <li><a href="https://tayloredmade.github.io/">About Us</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
